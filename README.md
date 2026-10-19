@@ -94,7 +94,7 @@
 ### 動作要件
 - **OS**: Windows 10 (バージョン 1809 以降) / Windows 11
 - **ハードウェア**: Bluetooth 4.0 以上を搭載した Windows PC
-- **開発環境 (ビルド時のみ)**: .NET 8.0 SDK, Visual Studio 2022 (Windows アプリケーション開発ワークロード)
+- **開発環境 (ビルド時のみ)**: .NET 8.0 SDK, Visual Studio 2026 (Windows アプリケーション開発ワークロード)
 
 ### 1. ヘッドホンのペアリング
 Windows の標準設定（「設定」>「Bluetooth とデバイス」）から、お使いの Sony ヘッドホン（例: WH-1000XM5）をあらかじめペアリングしておきます。
