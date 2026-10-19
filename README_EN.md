@@ -86,7 +86,7 @@ The solution is divided into two focused projects:
 ### Prerequisites
 - **OS**: Windows 10 (version 1809 or higher) / Windows 11
 - **Hardware**: Windows PC with Bluetooth 4.0 or higher
-- **Build Tools**: .NET 8.0 SDK, Visual Studio 2022 with Windows App Development workload
+- **Build Tools**: .NET 8.0 SDK, Visual Studio 2026 with Windows App Development workload
 
 ### 1. Pair Your Headphones
 Pair your Sony headphones (e.g. WH-1000XM5) via standard Windows Settings (`Settings` > `Bluetooth & devices`).
