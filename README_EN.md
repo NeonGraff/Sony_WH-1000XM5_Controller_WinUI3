@@ -138,7 +138,7 @@ SOFTWARE.
 
 ### Trademarks
 
-- "Sony", "WH-1000XM5", "LDAC", "DSEE", "DSEE Extreme", "Headphones Connect", and "Sound Connect" are registered trademarks or trademarks of Sony Group Corporation or its subsidiaries.
+- "Sony", "WH-1000XM5", "LDAC", "DSEE", "DSEE Extreme", "Headphones Connect", and "Sound Connect" are registered trademarks or trademarks of Sony Corporation or its subsidiaries.
 - "Windows" is a registered trademark of Microsoft Corporation.
 - "Bluetooth" is a registered trademark of Bluetooth SIG, Inc.
 - All other trademarks and registered trademarks are the properties of their respective holders.
