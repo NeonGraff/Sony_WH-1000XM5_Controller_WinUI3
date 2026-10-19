@@ -147,7 +147,7 @@ SOFTWARE.
 
 ### 商標について (Trademarks)
 
-- "Sony", "WH-1000XM5", "LDAC", "DSEE", "DSEE Extreme", "Headphones Connect", "Sound Connect" は、ソニーグループ株式会社またはその関連会社の登録商標または商標です。
+- "Sony", "WH-1000XM5", "LDAC", "DSEE", "DSEE Extreme", "Headphones Connect", "Sound Connect" は、Sony Corporation またはその関連会社の登録商標または商標です。
 - "Windows" は、Microsoft Corporation の商標または登録商標です。
 - "Bluetooth" は、Bluetooth SIG, Inc. の登録商標です。
 - その他記載されている会社名および製品名は、各社の商標または登録商標です。
