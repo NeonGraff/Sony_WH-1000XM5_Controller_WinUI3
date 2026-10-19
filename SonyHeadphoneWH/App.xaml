@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Application
+    x:Class="SonyHeadphoneWH.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SonyHeadphoneWH">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <XamlControlsResources xmlns="using:Microsoft.UI.Xaml.Controls" />
+                <!-- Other merged dictionaries here -->
+            </ResourceDictionary.MergedDictionaries>
+            <!-- Other app resources here -->
+            <converters:BoolToVisibilityConverter x:Key="BoolToVisibilityConverter" Invert="False"
+                                                  xmlns:converters="using:SonyHeadphoneWH.Converters" />
+            <converters:BoolToVisibilityConverter x:Key="BoolToVisibilityInvertedConverter" Invert="True"
+                                                  xmlns:converters="using:SonyHeadphoneWH.Converters" />
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

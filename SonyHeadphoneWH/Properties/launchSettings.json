@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SonyHeadphoneWH (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SonyHeadphoneWH (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
